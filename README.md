@@ -138,7 +138,7 @@ margin-top:40px;
 
 <header>
 
-<h1>CONSULTOR MARCAS</h1>
+<h1>MEJORA TU MARCA</h1>
 
 <nav>
 <a href="#servicios">Servicios</a>
