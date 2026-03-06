@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="CSG Propiedades y Marcas" content="width=device-width, initial-scale=1.0">
 <title>CSG Propiedades y Marcas| Filadelfia Paraguay</title>
 
 <style>
